@@ -1,0 +1,587 @@
+@media screen and(max-width: 480px){
+    body, .texto-home{
+        text-align: center;
+        width: auto;
+    }
+}
+
+html{
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+header{
+    background: rgb(100,100,100);
+    display: inline-flex;
+    width: 100%;
+    height: 235px;
+    text-align: center;
+}
+
+body{
+    background: #000000;
+    color:#FFFFFF;
+}
+
+body p{
+    margin: 10px;
+}
+
+.img_logo{
+    margin-top: 0;
+    display: flex;
+    width: 350px;
+    height: 235px;
+    background: rgb(100,100,100);
+}
+
+.lista_cabecalho{
+    display: flex;
+    margin: 35px;
+    list-style: none;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 800%;
+    
+   }
+
+.lista_cabecalho li{
+    
+    width: 100%;
+    background: rgb(100,100,100);
+    padding: 0 40px;
+      
+}
+
+.itens_cabecalho:hover, .itens_cabecalho a:hover{
+    color: orange;
+    text-decoration: none;
+}
+
+.itens_cabecalho_wm:hover, .itens_cabecalho_wm a:hover{
+    color: orange;
+    text-decoration: none;
+   
+} 
+
+.itens_cabecalho a{
+    text-decoration: none;
+    color:#FFFFFF;
+}
+
+a:visited{
+    color:#FFFFFF;
+}
+  
+.drop-content{
+    display: none;
+    background-color: rgba(0, 147, 173, 0.932);
+    position: absolute; 
+    width: 200px;
+    
+}
+
+.drop-content a{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+.menu-drop:hover .drop-content{
+    display: block;
+}
+
+.menu-drop:hover{
+    background-color: rgb(150, 150, 150);
+}
+
+.drop-content a:hover{
+    background-color: rgba(4, 79, 92, 0.932);
+    width: 200px;
+    
+}
+
+.menu-drop{
+    position: relative;
+    width: 150px;
+}
+
+h1{
+    text-align: center;
+}
+
+.first_text{
+    margin-top: 10px;
+    display: flex; 
+    text-align: center;
+}
+
+.img_mm{
+    margin-top: 30px;
+    display: inline-block;
+    text-align: center;
+    width: 70%;
+}
+
+.texto-home{
+    text-align: center;
+    margin-top: 35px;
+}
+
+.texto-home .img_tonyRico{
+    margin-top: 25px;
+    text-align: center;
+    width: 100%;
+        
+}
+
+.titulo_oCriador{
+    margin-top: 25px;
+    display: block;
+}
+
+.rvw{
+    display: flex;
+}
+.quem_sou_eu{
+    text-align: center;
+    
+}
+
+.texto-home .img_eu{
+     display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+
+.SocialMedia_NoButton a{
+    text-decoration: none;
+    size: 50px;
+    margin: 10px;
+    text-align: center;
+   
+} 
+
+.SocialMedia_NoButton:hover, .SocialMedia_NoButton a:hover{
+    color: skyblue;
+    size: 100px;
+    text-align: center;
+    }
+
+footer{
+    text-align: center;
+    size: 22px;
+    margin-top: 35px;
+    
+}
+
+.titleGold{
+    text-align: left;
+}
+
+.gd-utilidades h2{
+    text-align: center;
+}
+
+.gd-utilidades .img-gb{
+    text-align: right;
+    display: flex;
+    float: center;
+}
+
+.img-gb{
+    text-align: right;
+    margin-top: 30px;
+    float: center;
+}
+
+.abundancia-ouro h2{
+    padding-top: 30px;
+    text-align: center;
+    display: inline-block;
+}
+
+.abundancia-ouro .img-pepitaOuro{
+    text-align: left;
+    display: flex;
+    float: left;
+
+}
+
+.abundancia-ouro .text-abundancia{
+    text-align: right;
+    display: block;
+    
+}
+
+.img-pepita {
+    float: left;
+    font-style: italic;
+    text-indent: 0;
+    border: thin silver solid;
+    margin: 0.5em;
+    padding: 0.5em;
+        
+}
+
+.legenda{
+    display: block;
+    text-align: center;
+}
+
+img.scaled {
+    width: 100%;
+    padding-top: 55px;
+}
+
+.ouro-invest{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.ouro-brasil{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.fonte{
+    padding-top: 15px;
+    text-align: center;
+}
+
+.fonte a{
+    padding-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.fonte a:hover{
+      color: skyblue;
+}
+
+.poweredBy a{
+      
+      color: white;
+}
+.poweredBy a:hover{
+      color: skyblue;
+}
+ 
+.underline_link{
+      text-decoration: none;
+}
+
+.real-home{
+      text-align: center;
+}
+
+.hist-real{
+    padding-top: 25px;  
+    text-align: center;
+}
+
+.notas-real{
+    padding-top: 20px;  
+    text-align: center;
+}
+
+.moedas-real{
+    padding-top: 20px;  
+    text-align: center;
+}
+
+.principal-dolar{
+      padding-top: 35px;
+      text-align: center;
+}
+
+.subdiv-dolar{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.circOffEua{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.moedas_e_notas{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.euroPrincipal{
+    padding-top: 20px;
+}
+
+.hist-euro{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.notas-e-moedas-euro{
+    padding-top: 20px;
+    text-align: center;
+}
+.img-moedas-euro{
+    padding-top: 20px;
+}
+
+.zonaEuro{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.home-ibov{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.home-ibov .img-grafico-ibov{
+    padding-top: 15px;
+}
+.linkB3:hover{
+    color: skyblue;
+    padding-top: 15px;
+}
+
+.hist-ibov{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.list-hist-ibov{
+    text-align: start;
+}
+
+.homeTitle-nyse{
+    text-align: center;
+}
+
+.sub-title-nyse{
+    text-align: center;
+    font: italic;
+}
+
+.text-nyse{
+    padding-top: 25px;
+    text-align: center;
+}
+
+.img-nyse{
+   padding-top: 20px;
+   text-align: center;
+   width: 40%;
+   float: center;
+}
+
+.linkNYSE{
+   text-align: center;
+}
+
+.linkNYSE:hover{
+    color:skyblue;
+}
+
+.main-nyse{
+    text-align: center;
+}
+
+.nasdaq-title{
+    text-align: center;
+}
+
+.inc-txt-nasdaq{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.forItalic{
+    font: italic;
+}
+
+.org-name-nasdaq{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.img-nasdaq{
+    padding-top: 30px;
+    text-align: center;
+    float: center;
+}
+
+.main-nasdaq{
+    text-align: center;
+}
+
+.linkNASDAQ{
+    padding-top:15px;
+}
+
+.linkNASDAQ:hover{
+    color: skyblue;
+}
+
+.main-btc{
+    text-align: center;
+    float: center;
+}
+
+.first-txt-btc{
+    padding-top: 20px;
+}
+
+.hist-creat-btc{
+    padding-top: 20px;
+}
+
+.img-btc{
+    padding-top: 15px;
+}
+
+.cotacaoEadocao{
+    padding-top: 15px;
+}
+
+.blockchain{
+    padding-top: 15px;
+}
+
+.trasacoes{
+    padding-top: 15px;
+}
+
+.wallet{
+    padding-top: 15px;
+}
+
+main .wallet .hardWallet{
+    padding-top: 10px;
+    
+    display: inline;
+   
+}
+main .wallet .digWallet{
+    padding-top: 10px;
+    display: inline;
+    padding: 15px;
+   
+}
+
+.offer{
+    padding-top: 15px;
+}
+
+.mineracao-btc{
+    padding-top: 15px;
+}
+
+.tx-trasacao{
+    padding-top: 15px;
+}
+
+.buyEsell-btc{
+    padding-top: 15px;
+}
+
+.critica-btc{
+    padding-top: 15px;
+}
+
+.main-eth{
+    text-align: center;
+}
+
+.txt-inc-eth{
+    padding-top: 15px;
+}
+
+.eth-logo-info{
+    padding-top: 15px;
+}
+
+.eth{
+    padding-top: 15px;
+}
+
+.searchAndDev{
+    padding-top: 15px;
+}
+
+.confianca-eth{
+    padding-top: 15px;
+}
+
+.financas-eth{
+    padding-top: 15px;
+}
+
+.smartContractsETH{
+    padding-top: 15px;
+}
+
+.preciacoesETH{
+    padding-top: 15px;
+}
+
+.deathCreator{
+    padding-top: 15px;
+}
+
+ul{
+    text-align: start;
+}
+
+#main-xrp{
+    text-align: center;
+}
+
+.ripple-inc{
+    padding-top: 10px;
+}
+
+.hist-xrp{
+    padding-top: 15px;
+}
+
+.conceito-xrp{
+    padding-top: 15px; 
+}
+
+.xrp{
+    padding-top: 15px; 
+}
+
+.fund-ripple{
+    padding-top: 15px; 
+}
+
+#main-diem{
+    text-align: center;
+}
+
+.txt-inc-diem{
+    padding-top: 15px;
+}
+
+.hist-diem{
+    padding-top: 15px;
+}
+
+.caract-diem{
+    padding-top: 15px;
+}
+
+.associacao-diem{
+    padding-top: 15px;
+}
+
+.repec-diem{
+    padding-top: 15px;
+}
+
+#link-novi:hover{
+    color: skyblue;
+}
