@@ -1,2 +1,2 @@
-# htmlAndCss
-Pequeno site feito em curso em html e css
+# Web
+Diversos projetos web. Desde sites completos ate a pequenas utilidades como calculadora IMC entre outros. Feitos com o intuíto de aprendizado.
