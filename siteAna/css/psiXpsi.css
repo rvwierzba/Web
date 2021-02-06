@@ -1,0 +1,51 @@
+.psicologo{
+    padding-top: 15px;
+}
+
+.psicologo-txt{
+    float: left;
+}
+
+.link-teorias{
+    text-decoration: none underline;
+    color: rgb(31, 31, 32);
+}
+
+.link-teorias:hover{
+    color: blue;
+}
+
+.mod-terapy{
+    float: right;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+}
+
+.psiquiatra{
+    padding-top: 50px;
+}
+
+
+.border-in-doctor{
+    padding-top: 25px;
+    width: 345px; 
+	border-radius: 5px inset black;
+	background: black;
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.figCap-white{
+    color: #fff;
+}
+
+.medicamentos{
+    padding-top: 35px;
+}
+
+.remedios{
+    padding-top: 10px;
+}
+

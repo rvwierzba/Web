@@ -1,0 +1,36 @@
+.foto-ana{
+    float: left;
+    width: 30%;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thin silver solid;
+    margin: 0.1em;
+    padding: 0.1em;
+    padding-top: 20px;
+}
+
+.main-txt{
+    padding: 10px 40px;
+    
+}
+
+.lnk-unifaat{
+    text-decoration: underline;
+    color: rgb(31, 31, 32);
+    
+}
+
+.lnk-unifaat:hover{
+    color: blue;
+    text-decoration: bolder;
+}
+
+.ana-consulta{
+    float: center;
+    padding-top: 120px;
+   text-align: center;
+   float: center;
+ 
+}

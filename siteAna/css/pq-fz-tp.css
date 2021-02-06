@@ -1,0 +1,25 @@
+main{
+    display: inline;
+}
+
+p a{
+    text-decoration: none underline;
+    color: rgb(31, 31, 32);
+}
+
+p a:hover{
+    color: blue;
+}
+
+.img-aliment-saudavel{
+    float: left;
+}
+
+.img-pratica-esporte{
+    float: right;
+}
+
+footer{
+    padding-top: 85px;
+}
+

@@ -1,0 +1,43 @@
+.form-email{
+
+}
+
+.followRedes{
+  padding-top: 20px;
+}
+
+.img-sM{
+    border-radius: 20px;
+    width: 89px;
+    height: 89px;
+    display: inline-block;
+    text-decoration: none;
+    padding: 30px;
+    transition: 0.6s;
+   
+}
+
+.img-sM:hover{
+    width: 150px;
+    height: 150px;
+}
+
+.nm-rede{
+  color: #fff;
+  display: inline-block;
+}
+
+a{
+  text-decoration: none underline;
+  color: rgb(31, 31, 32);
+}
+
+a:hover{
+  color: blue;
+}
+
+.cvv{
+  padding-top: 30px;
+}
+
+

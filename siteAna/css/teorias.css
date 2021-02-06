@@ -1,0 +1,51 @@
+.behaviorismo{
+    padding-top: 5px;
+}
+
+.behaviorismo p{
+    float: left;
+    padding-top: 13px;
+    display: inline-flex;
+
+    }
+
+.exp.dog{
+    float: right;
+    display: flex;
+    width: 360px;
+    height: 280px;
+}
+
+.skinner{
+    float: right;
+    width: 430px;
+    height: 330px;
+
+}
+
+.psicanalise{
+    padding-top: 70px;
+    font-weight: bold;
+}
+
+.freud{
+    float: left;
+    display: inline-flex;
+    padding-top: 10px;
+}
+
+.psicanalise p{
+    float: right;
+    padding-top: 10px;
+    display: inline-flex;
+    font-weight: bold;
+}
+
+.feno{
+    padding-top: 380px;
+}
+
+.img-feno{
+    width: 500px;
+    height: 350px;
+}
